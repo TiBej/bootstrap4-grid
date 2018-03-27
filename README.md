@@ -2,7 +2,9 @@
 
 # bootstrap4-grid
 **Version:** v4.0.0
+
 **License:** MIT ([https://github.com/twbs/bootstrap/blob/master/LICENSE](https://github.com/twbs/bootstrap/blob/master/LICENSE))
+
 **Contents Copyright:** (c) 2011-2018 Twitter, Inc.
 
 ## Usage
